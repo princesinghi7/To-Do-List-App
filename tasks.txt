@@ -1,0 +1,2 @@
+#To-Do List App (File Based) Concepts: file handling, lists Features: Add / delete / view tasks Save tasks in tasks.txt
+Learn Python file handling
